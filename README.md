@@ -22,3 +22,4 @@ dotnet McPing.dll
 ## 修订
 1.0.1: 可能吞字的问题
 1.1.0：更换库
+pull
